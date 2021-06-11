@@ -1,0 +1,1629 @@
+{
+  "GH": [
+    {
+      "id": 255,
+      "code": "MTN",
+      "name": "MTN Mobile Money"
+    },
+    {
+      "id": 256,
+      "code": "TIGO",
+      "name": "TIGO Mobile Money"
+    },
+    {
+      "id": 257,
+      "code": "VODAFONE",
+      "name": "Vodafone Mobile Money"
+    },
+    {
+      "id": 258,
+      "code": "AIRTEL",
+      "name": "Airtel Mobile Money"
+    },
+    {
+      "id": 752,
+      "code": "10550214",
+      "name": "The Hongkong and Shanghai Banking Corporation Limited"
+    },
+    {
+      "id": 753,
+      "code": "11088200",
+      "name": "Giro Elszamolasforgalmi Zrt."
+    },
+    {
+      "id": 754,
+      "code": "11276282",
+      "name": "First National Bank Ghana Limited"
+    },
+    {
+      "id": 755,
+      "code": "11299458",
+      "name": "OMNIBANK GHANA LIMITED"
+    },
+    {
+      "id": 756,
+      "code": "11319374",
+      "name": "GHL Bank Ltd"
+    },
+    {
+      "id": 757,
+      "code": "11350352",
+      "name": "Consolidated Bank Ghana Limited"
+    },
+    {
+      "id": 758,
+      "code": "1812142W72",
+      "name": "GH PREPAID"
+    },
+    {
+      "id": 759,
+      "code": "190815670S",
+      "name": " VISA"
+    },
+    {
+      "id": 760,
+      "code": "2006168ICS",
+      "name": "Standard Chartered Bk Ghana Int"
+    },
+    {
+      "id": 761,
+      "code": "2006228LG0",
+      "name": "UNITED BANK FOR AFRICA (GHANA) LTD"
+    },
+    {
+      "id": 762,
+      "code": "20112200",
+      "name": "Partner Banka d.d."
+    },
+    {
+      "id": 763,
+      "code": "20313200",
+      "name": "Agricultural Development Bank Limited"
+    },
+    {
+      "id": 764,
+      "code": "20313400",
+      "name": "Bank of Ghana"
+    },
+    {
+      "id": 765,
+      "code": "20313500",
+      "name": "Barclays Bank of Ghana Limited"
+    },
+    {
+      "id": 766,
+      "code": "20313600",
+      "name": "GCB Bank Limited"
+    },
+    {
+      "id": 767,
+      "code": "20313800",
+      "name": "Universal Merchant Bank"
+    },
+    {
+      "id": 768,
+      "code": "20313900",
+      "name": "National Investment Bank Ltd"
+    },
+    {
+      "id": 769,
+      "code": "20314100",
+      "name": "Societe Generale Ghana Limited"
+    },
+    {
+      "id": 770,
+      "code": "20314200",
+      "name": "Standard Chartered Bank Ghana Limited"
+    },
+    {
+      "id": 771,
+      "code": "20321900",
+      "name": "Societe Generale Haitienne de Banque S.A. (Sogebank)"
+    },
+    {
+      "id": 772,
+      "code": "20497300",
+      "name": "BNG Bank N V"
+    },
+    {
+      "id": 773,
+      "code": "22031960",
+      "name": "Cal Bank Limited"
+    },
+    {
+      "id": 774,
+      "code": "25449292",
+      "name": "DBS Group Holdings Ltd"
+    },
+    {
+      "id": 775,
+      "code": "25528546",
+      "name": "Financial Brokerage Group (Fbg)"
+    },
+    {
+      "id": 776,
+      "code": "25544088",
+      "name": "Arb Apex Bank Limited"
+    },
+    {
+      "id": 777,
+      "code": "25549518",
+      "name": "Stock Exchange Of Hong Kong Ltd, The"
+    },
+    {
+      "id": 778,
+      "code": "25562284",
+      "name": "Guaranty Trust Bank (Ghana) Ltd"
+    },
+    {
+      "id": 779,
+      "code": "25570554",
+      "name": "Fidelity Bank Ghana Ltd."
+    },
+    {
+      "id": 780,
+      "code": "25785380",
+      "name": "Banque Sahelo-Saharienne Pour LInvestissment et le Commerce (Ghana) Lt"
+    },
+    {
+      "id": 781,
+      "code": "25817360",
+      "name": "Guaranty Trust Bank (UK) Limited"
+    },
+    {
+      "id": 782,
+      "code": "25892776",
+      "name": "Bank of Baroda (Ghana) Limited"
+    },
+    {
+      "id": 783,
+      "code": "25897096",
+      "name": "Gatehouse Bank Plc"
+    },
+    {
+      "id": 784,
+      "code": "26153374",
+      "name": "Access Bank (Ghana) PLC"
+    },
+    {
+      "id": 785,
+      "code": "26153460",
+      "name": "Noble Group Ltd"
+    },
+    {
+      "id": 786,
+      "code": "26156818",
+      "name": "Ghazanfar Bank"
+    },
+    {
+      "id": 787,
+      "code": "26545578",
+      "name": "Social Security And National Insurance Trust"
+    },
+    {
+      "id": 788,
+      "code": "26675842",
+      "name": "Energy Bank Ghana Limited"
+    },
+    {
+      "id": 789,
+      "code": "26699422",
+      "name": "Ghana Revenue Authority"
+    },
+    {
+      "id": 790,
+      "code": "26708398",
+      "name": "Pacific Eagle Asset Management Ltd"
+    },
+    {
+      "id": 791,
+      "code": "26852136",
+      "name": "Independent Petroleum Group"
+    },
+    {
+      "id": 792,
+      "code": "26935088",
+      "name": "Controller And Accountant-GeneralS Department"
+    },
+    {
+      "id": 793,
+      "code": "26935170",
+      "name": "Partners Group AG"
+    },
+    {
+      "id": 794,
+      "code": "26955918",
+      "name": "Compass Global Holdings Pty Ltd"
+    },
+    {
+      "id": 795,
+      "code": "27096388",
+      "name": "Global Exchange Centre Limited"
+    },
+    {
+      "id": 796,
+      "code": "27108818",
+      "name": "Volta River Authority"
+    },
+    {
+      "id": 797,
+      "code": "27127004",
+      "name": "Norma Group Holding"
+    },
+    {
+      "id": 798,
+      "code": "27208826",
+      "name": "Tronox Global Holdings Pty Limited"
+    },
+    {
+      "id": 799,
+      "code": "27209142",
+      "name": "Cqlt Saargummi Technologies SAR.l"
+    },
+    {
+      "id": 800,
+      "code": "27257744",
+      "name": "Pigeon Corporation"
+    },
+    {
+      "id": 801,
+      "code": "27349456",
+      "name": "Ping An Of China Asset Management (Hong Kong) Company Ltd"
+    },
+    {
+      "id": 802,
+      "code": "27352014",
+      "name": "Gebr. Heinemann Se And Co.KG"
+    },
+    {
+      "id": 803,
+      "code": "27404306",
+      "name": "Cgnpc Huasheng Investment Limited"
+    },
+    {
+      "id": 804,
+      "code": "27451510",
+      "name": "Premium Bank Ghana Limited"
+    },
+    {
+      "id": 805,
+      "code": "27452668",
+      "name": "G.H. Financials Ltd"
+    },
+    {
+      "id": 806,
+      "code": "27457008",
+      "name": "Asahi Group Holdings, Ltd."
+    },
+    {
+      "id": 807,
+      "code": "27462484",
+      "name": "Heritage Bank Limited"
+    },
+    {
+      "id": 808,
+      "code": "27464082",
+      "name": "Grabtaxi Holdings PTE LTD"
+    },
+    {
+      "id": 809,
+      "code": "27466360",
+      "name": "Al Ghurair International Exchange"
+    },
+    {
+      "id": 810,
+      "code": "27547278",
+      "name": "Dogan Sirketler Grubu Holding AS"
+    },
+    {
+      "id": 811,
+      "code": "50480908",
+      "name": "GN Bank Limited"
+    },
+    {
+      "id": 812,
+      "code": "60002121",
+      "name": "Banque Populaire de Rabat-Kenitra"
+    },
+    {
+      "id": 813,
+      "code": "60003190",
+      "name": "Prudential Bank Ltd"
+    },
+    {
+      "id": 814,
+      "code": "60003191",
+      "name": "First Atlantic Bank Ltd"
+    },
+    {
+      "id": 815,
+      "code": "60003193",
+      "name": "FBN Bank (Ghana) Limited"
+    },
+    {
+      "id": 816,
+      "code": "96683220",
+      "name": "Privredna banka Zagreb d.d."
+    },
+    {
+      "id": 817,
+      "code": "96788653",
+      "name": "Ghana International Bank plc"
+    },
+    {
+      "id": 818,
+      "code": "96793657",
+      "name": "Republic Bank (Ghana) Ltd"
+    },
+    {
+      "id": 819,
+      "code": "96855152",
+      "name": "Guaranty Trust Bank Kenya Limited"
+    },
+    {
+      "id": 820,
+      "code": "97151844",
+      "name": "Stanbic Bank Ghana Limited"
+    },
+    {
+      "id": 821,
+      "code": "97155860",
+      "name": "Bank of Africa - Ghana"
+    },
+    {
+      "id": 822,
+      "code": "98357706",
+      "name": "ZENITH BANK (GHANA) LIMITED"
+    },
+    {
+      "id": 823,
+      "code": "99730556",
+      "name": "FINANCIJSKA AGENCIJA"
+    },
+    {
+      "id": 824,
+      "code": "GH130100",
+      "name": "Ecobank Ghana (GH130100)"
+    }
+  ],
+  "KE": [
+    {
+      "id": 47,
+      "code": "01",
+      "name": "Kenya Commercial Bank Limited"
+    },
+    {
+      "id": 48,
+      "code": "11",
+      "name": "Co-operative Bank of Kenya Limited"
+    },
+    {
+      "id": 49,
+      "code": "31",
+      "name": "CFC Stanbic Bank Kenya Limited"
+    },
+    {
+      "id": 50,
+      "code": "41",
+      "name": "NIC Bank Limited"
+    },
+    {
+      "id": 51,
+      "code": "51",
+      "name": "Jamii Bora Bank"
+    },
+    {
+      "id": 52,
+      "code": "61",
+      "name": "Housing Finance Bank"
+    },
+    {
+      "id": 53,
+      "code": "14",
+      "name": "Oriental Commercial Bank Limited"
+    },
+    {
+      "id": 54,
+      "code": "54",
+      "name": "Victoria Commercial Bank Limited"
+    },
+    {
+      "id": 55,
+      "code": "07",
+      "name": "Commercial Bank of Africa Limited"
+    },
+    {
+      "id": 56,
+      "code": "49",
+      "name": "Equatorial Commercial Bank Limited"
+    },
+    {
+      "id": 57,
+      "code": "57",
+      "name": "Investments n Mortgages Bank Limited"
+    },
+    {
+      "id": 58,
+      "code": "39",
+      "name": "Imperial Bank Limited"
+    },
+    {
+      "id": 59,
+      "code": "12",
+      "name": "National Bank of Kenya Limited"
+    },
+    {
+      "id": 60,
+      "code": "72",
+      "name": "Gulf African Bank Ltd"
+    },
+    {
+      "id": 61,
+      "code": "25",
+      "name": "Credit Bank Limited"
+    },
+    {
+      "id": 62,
+      "code": "35",
+      "name": "African Banking Corp. Bank Ltd"
+    },
+    {
+      "id": 63,
+      "code": "74",
+      "name": "First Community Bank"
+    },
+    {
+      "id": 64,
+      "code": "55",
+      "name": "Guardian Bank Limited"
+    },
+    {
+      "id": 65,
+      "code": "10",
+      "name": "Prime Bank Limited"
+    },
+    {
+      "id": 66,
+      "code": "20",
+      "name": "Dubai Bank Kenya Limited"
+    },
+    {
+      "id": 67,
+      "code": "30",
+      "name": "Chase Bank Limited"
+    },
+    {
+      "id": 68,
+      "code": "50",
+      "name": "Paramount Universal Bank Limited"
+    },
+    {
+      "id": 69,
+      "code": "70",
+      "name": "Family Bank Ltd"
+    },
+    {
+      "id": 70,
+      "code": "23",
+      "name": "Consolidated Bank of Kenya Limited"
+    },
+    {
+      "id": 71,
+      "code": "18",
+      "name": "Middle East Bank Kenya Limited"
+    },
+    {
+      "id": 72,
+      "code": "63",
+      "name": "Diamond Trust Bank Limited"
+    },
+    {
+      "id": 73,
+      "code": "16",
+      "name": "Citibank N.A."
+    },
+    {
+      "id": 74,
+      "code": "26",
+      "name": "Trans-National Bank Limited"
+    },
+    {
+      "id": 75,
+      "code": "68",
+      "name": "Equity Bank Limited"
+    },
+    {
+      "id": 76,
+      "code": "66",
+      "name": "K-Rep Bank Limited"
+    },
+    {
+      "id": 77,
+      "code": "76",
+      "name": "UBA Kenya Bank Ltd"
+    },
+    {
+      "id": 78,
+      "code": "19",
+      "name": "Bank of  Africa Kenya Limited"
+    },
+    {
+      "id": 253,
+      "code": "10276",
+      "name": "ABSA Bank Kenya PLC"
+    },
+    {
+      "id": 254,
+      "code": "MPS",
+      "name": "MPESA"
+    },
+    {
+      "id": 609,
+      "code": "02",
+      "name": "Standard Chartered Bank Limited"
+    }
+  ],
+  "NG": [
+    {
+      "id": 132,
+      "code": "560",
+      "name": "Page MFBank"
+    },
+    {
+      "id": 133,
+      "code": "304",
+      "name": "Stanbic Mobile Money"
+    },
+    {
+      "id": 134,
+      "code": "308",
+      "name": "FortisMobile"
+    },
+    {
+      "id": 135,
+      "code": "328",
+      "name": "TagPay"
+    },
+    {
+      "id": 136,
+      "code": "309",
+      "name": "FBNMobile"
+    },
+    {
+      "id": 137,
+      "code": "011",
+      "name": "First Bank of Nigeria"
+    },
+    {
+      "id": 138,
+      "code": "326",
+      "name": "Sterling Mobile"
+    },
+    {
+      "id": 139,
+      "code": "990",
+      "name": "Omoluabi Mortgage Bank"
+    },
+    {
+      "id": 140,
+      "code": "311",
+      "name": "ReadyCash (Parkway)"
+    },
+    {
+      "id": 141,
+      "code": "057",
+      "name": "Zenith Bank"
+    },
+    {
+      "id": 142,
+      "code": "068",
+      "name": "Standard Chartered Bank"
+    },
+    {
+      "id": 143,
+      "code": "306",
+      "name": "eTranzact"
+    },
+    {
+      "id": 144,
+      "code": "070",
+      "name": "Fidelity Bank"
+    },
+    {
+      "id": 145,
+      "code": "023",
+      "name": "CitiBank"
+    },
+    {
+      "id": 146,
+      "code": "215",
+      "name": "Unity Bank"
+    },
+    {
+      "id": 147,
+      "code": "323",
+      "name": "Access Money"
+    },
+    {
+      "id": 148,
+      "code": "302",
+      "name": "Eartholeum"
+    },
+    {
+      "id": 149,
+      "code": "324",
+      "name": "Hedonmark"
+    },
+    {
+      "id": 150,
+      "code": "325",
+      "name": "MoneyBox"
+    },
+    {
+      "id": 151,
+      "code": "301",
+      "name": "JAIZ Bank"
+    },
+    {
+      "id": 152,
+      "code": "050",
+      "name": "Ecobank Plc"
+    },
+    {
+      "id": 153,
+      "code": "307",
+      "name": "EcoMobile"
+    },
+    {
+      "id": 154,
+      "code": "318",
+      "name": "Fidelity Mobile"
+    },
+    {
+      "id": 155,
+      "code": "319",
+      "name": "TeasyMobile"
+    },
+    {
+      "id": 156,
+      "code": "999",
+      "name": "NIP Virtual Bank"
+    },
+    {
+      "id": 157,
+      "code": "320",
+      "name": "VTNetworks"
+    },
+    {
+      "id": 158,
+      "code": "221",
+      "name": "Stanbic IBTC Bank"
+    },
+    {
+      "id": 159,
+      "code": "501",
+      "name": "Fortis Microfinance Bank"
+    },
+    {
+      "id": 160,
+      "code": "329",
+      "name": "PayAttitude Online"
+    },
+    {
+      "id": 161,
+      "code": "322",
+      "name": "ZenithMobile"
+    },
+    {
+      "id": 162,
+      "code": "303",
+      "name": "ChamsMobile"
+    },
+    {
+      "id": 163,
+      "code": "403",
+      "name": "SafeTrust Mortgage Bank"
+    },
+    {
+      "id": 164,
+      "code": "551",
+      "name": "Covenant Microfinance Bank"
+    },
+    {
+      "id": 165,
+      "code": "415",
+      "name": "Imperial Homes Mortgage Bank"
+    },
+    {
+      "id": 166,
+      "code": "552",
+      "name": "NPF MicroFinance Bank"
+    },
+    {
+      "id": 167,
+      "code": "526",
+      "name": "Parralex"
+    },
+    {
+      "id": 168,
+      "code": "035",
+      "name": "Wema Bank"
+    },
+    {
+      "id": 169,
+      "code": "084",
+      "name": "Enterprise Bank"
+    },
+    {
+      "id": 170,
+      "code": "063",
+      "name": "Diamond Bank"
+    },
+    {
+      "id": 171,
+      "code": "305",
+      "name": "Paycom"
+    },
+    {
+      "id": 172,
+      "code": "100",
+      "name": "SunTrust Bank"
+    },
+    {
+      "id": 173,
+      "code": "317",
+      "name": "Cellulant"
+    },
+    {
+      "id": 174,
+      "code": "401",
+      "name": "ASO Savings and & Loans"
+    },
+    {
+      "id": 175,
+      "code": "030",
+      "name": "Heritage"
+    },
+    {
+      "id": 176,
+      "code": "402",
+      "name": "Jubilee Life Mortgage Bank"
+    },
+    {
+      "id": 177,
+      "code": "058",
+      "name": "GTBank Plc"
+    },
+    {
+      "id": 178,
+      "code": "032",
+      "name": "Union Bank"
+    },
+    {
+      "id": 179,
+      "code": "232",
+      "name": "Sterling Bank"
+    },
+    {
+      "id": 180,
+      "code": "076",
+      "name": "Skye Bank"
+    },
+    {
+      "id": 181,
+      "code": "082",
+      "name": "Keystone Bank"
+    },
+    {
+      "id": 182,
+      "code": "327",
+      "name": "Pagatech"
+    },
+    {
+      "id": 183,
+      "code": "559",
+      "name": "Coronation Merchant Bank"
+    },
+    {
+      "id": 184,
+      "code": "601",
+      "name": "FSDH"
+    },
+    {
+      "id": 185,
+      "code": "313",
+      "name": "Mkudi"
+    },
+    {
+      "id": 186,
+      "code": "214",
+      "name": "First City Monument Bank"
+    },
+    {
+      "id": 187,
+      "code": "314",
+      "name": "FET"
+    },
+    {
+      "id": 188,
+      "code": "523",
+      "name": "Trustbond"
+    },
+    {
+      "id": 189,
+      "code": "315",
+      "name": "GTMobile"
+    },
+    {
+      "id": 190,
+      "code": "033",
+      "name": "United Bank for Africa"
+    },
+    {
+      "id": 191,
+      "code": "044",
+      "name": "Access Bank"
+    },
+    {
+      "id": 567,
+      "code": "90115",
+      "name": "TCF MFB"
+    }
+  ],
+  "ZA": [
+    {
+      "id": 420,
+      "code": "FNB",
+      "name": "First National Bank"
+    },
+    {
+      "id": 421,
+      "code": "NedBank",
+      "name": "Nedbank Limited"
+    }
+  ],
+  "TZ": [
+    {
+      "id": 878,
+      "code": "11274858",
+      "name": "TIB Corporate Bank Limited"
+    },
+    {
+      "id": 879,
+      "code": "11288188",
+      "name": "Canara Bank (Tanzania) Limited"
+    },
+    {
+      "id": 880,
+      "code": "11288192",
+      "name": "Tanzania Agricultural Development Bank"
+    },
+    {
+      "id": 881,
+      "code": "11295332",
+      "name": "FINCA Microfinance Bank Ltd"
+    },
+    {
+      "id": 882,
+      "code": "11298200",
+      "name": "Mwalimu Commercial Bank Plc"
+    },
+    {
+      "id": 883,
+      "code": "11321840",
+      "name": "Guaranty Trust Bank (Tanzania) Limited"
+    },
+    {
+      "id": 884,
+      "code": "11335200",
+      "name": "Yetu Microfinance Bank PLC"
+    },
+    {
+      "id": 885,
+      "code": "20021376IK",
+      "name": "TZWALLET"
+    },
+    {
+      "id": 886,
+      "code": "20638200",
+      "name": "Bank of Tanzania"
+    },
+    {
+      "id": 887,
+      "code": "20638300",
+      "name": "CRDB Bank PLC"
+    },
+    {
+      "id": 888,
+      "code": "20638400",
+      "name": "National Bank of Commerce Ltd."
+    },
+    {
+      "id": 889,
+      "code": "20638700",
+      "name": "TIB Development Bank Ltd"
+    },
+    {
+      "id": 890,
+      "code": "20638800",
+      "name": "The People's Bank of Zanzibar Ltd."
+    },
+    {
+      "id": 891,
+      "code": "22017470",
+      "name": "TPB Bank Company Ltd"
+    },
+    {
+      "id": 892,
+      "code": "25522602",
+      "name": "Crown Finance And Leasing Limited"
+    },
+    {
+      "id": 893,
+      "code": "25522604",
+      "name": "Karadha Company Ltd"
+    },
+    {
+      "id": 894,
+      "code": "25522606",
+      "name": "National Bureau De Change Limited"
+    },
+    {
+      "id": 895,
+      "code": "25522608",
+      "name": "The African Banking Corporation of Tanzania Limited"
+    },
+    {
+      "id": 896,
+      "code": "25548988",
+      "name": "Bank of Baroda (Tanzania) Ltd"
+    },
+    {
+      "id": 897,
+      "code": "25562250",
+      "name": "Twiga Bancorp Limited"
+    },
+    {
+      "id": 898,
+      "code": "25702616",
+      "name": "Bank M Tanzania Public Limited Company"
+    },
+    {
+      "id": 899,
+      "code": "25716848",
+      "name": "Accessbank Tanzania Ltd"
+    },
+    {
+      "id": 900,
+      "code": "25894404",
+      "name": "Bank Of India (Tanzania) Limited"
+    },
+    {
+      "id": 901,
+      "code": "26187724",
+      "name": "Orbit Securites Co Ltd"
+    },
+    {
+      "id": 902,
+      "code": "26194946",
+      "name": "United Bank For Africa (Tanzania) Limited"
+    },
+    {
+      "id": 903,
+      "code": "26260012",
+      "name": "Mkombozi Commercial Bank Ltd"
+    },
+    {
+      "id": 904,
+      "code": "26262682",
+      "name": "Tanzania Womens Bank Limited"
+    },
+    {
+      "id": 905,
+      "code": "26500306",
+      "name": "First National Bank Tanzania Limited"
+    },
+    {
+      "id": 906,
+      "code": "26545582",
+      "name": "Tanzania Revenue Authority"
+    },
+    {
+      "id": 907,
+      "code": "26618356",
+      "name": "Tanzania Housing Bank"
+    },
+    {
+      "id": 908,
+      "code": "26695702",
+      "name": "Amana Bank Limited"
+    },
+    {
+      "id": 909,
+      "code": "26702352",
+      "name": "Equity Bank Tanzania Limited"
+    },
+    {
+      "id": 910,
+      "code": "26852058",
+      "name": "Letshego Bank (T) Limited"
+    },
+    {
+      "id": 911,
+      "code": "26955990",
+      "name": "SABMiller Tanzania"
+    },
+    {
+      "id": 912,
+      "code": "26965348",
+      "name": "Covenant Bank For Women (Tanzania) Limited"
+    },
+    {
+      "id": 913,
+      "code": "26965406",
+      "name": "Mwanga Community Bank Ltd"
+    },
+    {
+      "id": 914,
+      "code": "27121304",
+      "name": "UBL Bank (Tanzania) Limited"
+    },
+    {
+      "id": 915,
+      "code": "27121334",
+      "name": "Maendeleo Bank Ltd"
+    },
+    {
+      "id": 916,
+      "code": "27162738",
+      "name": "Trust Bank (Tanzania) Limited"
+    },
+    {
+      "id": 917,
+      "code": "27187316",
+      "name": "Dar Es Salaam Stock Exchange"
+    },
+    {
+      "id": 918,
+      "code": "27307960",
+      "name": "China Commercial Bank Limited"
+    },
+    {
+      "id": 919,
+      "code": "27357708",
+      "name": "Mucoba Bank Plc"
+    },
+    {
+      "id": 920,
+      "code": "27541834",
+      "name": "First Housing Finance Tanzania Limited"
+    },
+    {
+      "id": 921,
+      "code": "60000066",
+      "name": "Stanbic Bank Tanzania Ltd"
+    },
+    {
+      "id": 922,
+      "code": "97723612",
+      "name": "National Microfinance Bank Ltd."
+    },
+    {
+      "id": 923,
+      "code": "97723620",
+      "name": "Citibank Tanzania Ltd."
+    },
+    {
+      "id": 924,
+      "code": "97723632",
+      "name": "Diamond Trust Bank Tanzania Limited"
+    },
+    {
+      "id": 925,
+      "code": "97723634",
+      "name": "Kilimanjaro Cooperative Bank Limited"
+    },
+    {
+      "id": 926,
+      "code": "97723710",
+      "name": "KCB Bank Tanzania Ltd"
+    },
+    {
+      "id": 927,
+      "code": "97723712",
+      "name": "International Commercial Bank (Tanzania) Limited"
+    },
+    {
+      "id": 928,
+      "code": "97723714",
+      "name": "Habib African Bank Ltd."
+    },
+    {
+      "id": 929,
+      "code": "97723718",
+      "name": "Barclays Bank (Tanzania) Ltd."
+    },
+    {
+      "id": 930,
+      "code": "97906794",
+      "name": "Akiba Commercial Bank PLC"
+    },
+    {
+      "id": 931,
+      "code": "98080262",
+      "name": "Exim Bank (Tanzania) Limited"
+    },
+    {
+      "id": 932,
+      "code": "98116446",
+      "name": "I and M Bank Tanzania Limited"
+    },
+    {
+      "id": 933,
+      "code": "98116448",
+      "name": "DCB Commercial Bank Plc"
+    },
+    {
+      "id": 934,
+      "code": "98116452",
+      "name": "Azania Bank Limited"
+    },
+    {
+      "id": 935,
+      "code": "98116456",
+      "name": "NIC Bank Tanzania Limited"
+    },
+    {
+      "id": 936,
+      "code": "99055174",
+      "name": "Uchumi Commercial Bank"
+    },
+    {
+      "id": 937,
+      "code": "99055178",
+      "name": "Commercial Bank of Africa (Tanzania) Limited"
+    },
+    {
+      "id": 938,
+      "code": "99229218",
+      "name": "Bank of Africa Tanzania Limited"
+    },
+    {
+      "id": 939,
+      "code": "99354428",
+      "name": "Standard Chartered Bank Tanzania Ltd."
+    },
+    {
+      "id": 940,
+      "code": "TZ674000",
+      "name": "Ecobank Tanzania"
+    }
+  ],
+  "UG": [
+    {
+      "id": 707,
+      "code": "MPS",
+      "name": "Mobile Money"
+    },
+    {
+      "id": 959,
+      "code": "11125380",
+      "name": "Finance Trust Bank Limited"
+    },
+    {
+      "id": 960,
+      "code": "1908276CF9",
+      "name": "MTN"
+    },
+    {
+      "id": 961,
+      "code": "1910236K50",
+      "name": "ECOCBIBI"
+    },
+    {
+      "id": 962,
+      "code": "20654100",
+      "name": "Bank of Uganda"
+    },
+    {
+      "id": 963,
+      "code": "20654200",
+      "name": "Barclays Bank of Uganda Limited"
+    },
+    {
+      "id": 964,
+      "code": "20654300",
+      "name": "East African Development Bank"
+    },
+    {
+      "id": 965,
+      "code": "20654400",
+      "name": "Tropical Bank Limited"
+    },
+    {
+      "id": 966,
+      "code": "20654600",
+      "name": "Stanbic Bank Uganda Limited"
+    },
+    {
+      "id": 967,
+      "code": "20654700",
+      "name": "Standard Chartered Bank Uganda Limited"
+    },
+    {
+      "id": 968,
+      "code": "20831200",
+      "name": "Bank of Baroda (Uganda) Limited"
+    },
+    {
+      "id": 969,
+      "code": "20831300",
+      "name": "Diamond Trust Bank Uganda Limited"
+    },
+    {
+      "id": 970,
+      "code": "21069000",
+      "name": "Centenary Rural Development Bank Limited"
+    },
+    {
+      "id": 971,
+      "code": "21098200",
+      "name": "Bank of Africa Uganda Ltd"
+    },
+    {
+      "id": 972,
+      "code": "22017570",
+      "name": "DFCU Bank Ltd."
+    },
+    {
+      "id": 973,
+      "code": "22017590",
+      "name": "Post Bank (Uganda) Ltd."
+    },
+    {
+      "id": 974,
+      "code": "25020400",
+      "name": "The Uganda Institute of Bankers"
+    },
+    {
+      "id": 975,
+      "code": "25548564",
+      "name": "International Credit Bank Ltd."
+    },
+    {
+      "id": 976,
+      "code": "25550354",
+      "name": "Trans Africa Bank Ltd"
+    },
+    {
+      "id": 977,
+      "code": "25676062",
+      "name": "Engiplan Consultants"
+    },
+    {
+      "id": 978,
+      "code": "25811842",
+      "name": "ABC Capital Bank (Uganda) Limited"
+    },
+    {
+      "id": 979,
+      "code": "25811922",
+      "name": "Housing Finance Bank Limited"
+    },
+    {
+      "id": 980,
+      "code": "25811954",
+      "name": "KCB Bank Uganda Limited"
+    },
+    {
+      "id": 981,
+      "code": "25817334",
+      "name": "United Bank for Africa Uganda Limited"
+    },
+    {
+      "id": 982,
+      "code": "25892816",
+      "name": "Guaranty Trust Bank Uganda Limited"
+    },
+    {
+      "id": 983,
+      "code": "26146310",
+      "name": "Mbea Brokerage Services (U) Limited"
+    },
+    {
+      "id": 984,
+      "code": "26153412",
+      "name": "Equity Bank Uganda Limited"
+    },
+    {
+      "id": 985,
+      "code": "26617438",
+      "name": "Co-Operative Bank Ltd.,the"
+    },
+    {
+      "id": 986,
+      "code": "26618480",
+      "name": "Trust Bank (Uganda) Limited"
+    },
+    {
+      "id": 987,
+      "code": "26620154",
+      "name": "Exim Bank (Uganda) Limited"
+    },
+    {
+      "id": 988,
+      "code": "26852118",
+      "name": "Equity Stock Brokers (U) Ltd"
+    },
+    {
+      "id": 989,
+      "code": "26935178",
+      "name": "Bank of India (Uganda) Limited"
+    },
+    {
+      "id": 990,
+      "code": "26951724",
+      "name": "NC Bank Uganda Limited"
+    },
+    {
+      "id": 991,
+      "code": "27121264",
+      "name": "Sabmiller Uganda"
+    },
+    {
+      "id": 992,
+      "code": "27131044",
+      "name": "Crested Stocks And Securities Limited"
+    },
+    {
+      "id": 993,
+      "code": "27199362",
+      "name": "British American Tobacco Uganda Ltd"
+    },
+    {
+      "id": 994,
+      "code": "27235418",
+      "name": "Alt Xchange Limited."
+    },
+    {
+      "id": 995,
+      "code": "27349488",
+      "name": "Top Finance Bank Limited"
+    },
+    {
+      "id": 996,
+      "code": "27541792",
+      "name": "Crane Bank Ltd"
+    },
+    {
+      "id": 997,
+      "code": "60001114",
+      "name": "Orient Bank Limited"
+    },
+    {
+      "id": 998,
+      "code": "91807664",
+      "name": "Commercial Bank of Africa Uganda Limited"
+    },
+    {
+      "id": 999,
+      "code": "97339112",
+      "name": "Cairo International Bank Limited"
+    },
+    {
+      "id": 1000,
+      "code": "97339114",
+      "name": "Citibank Uganda Limited"
+    },
+    {
+      "id": 1001,
+      "code": "97339122",
+      "name": "Mercantile Credit Bank Ltd"
+    },
+    {
+      "id": 1002,
+      "code": "98357640",
+      "name": "UGANDA SECURITIES EXCHANGE"
+    },
+    {
+      "id": 1003,
+      "code": "UG029000",
+      "name": "ECOBANK (U) LTD"
+    },
+    {
+      "id": 1004,
+      "code": "UG01000",
+      "name": "BARCLAYS BANK OF UGANDA  LIMITED"
+    },
+    {
+      "id": 1005,
+      "code": "UG02000",
+      "name": "BANK OF BARODA"
+    },
+    {
+      "id": 1006,
+      "code": "UG031000",
+      "name": "ABC CAPITAL BANK LIMITED"
+    },
+    {
+      "id": 1007,
+      "code": "UG034000",
+      "name": "Bank of India"
+    },
+    {
+      "id": 1008,
+      "code": "UG04000",
+      "name": "STANBIC BANK LIMITED"
+    },
+    {
+      "id": 1009,
+      "code": "UG05000",
+      "name": "DFCU Bank"
+    },
+    {
+      "id": 1010,
+      "code": "UG053000",
+      "name": "FINCA UGANDA LIMITED 1"
+    },
+    {
+      "id": 1011,
+      "code": "UG06000",
+      "name": "TROPICAL BANK OF AFRICA"
+    },
+    {
+      "id": 1012,
+      "code": "UG08000",
+      "name": "STANDARD CHARTERED BANK"
+    },
+    {
+      "id": 1013,
+      "code": "UG11000",
+      "name": "ORIENT BANK"
+    },
+    {
+      "id": 1014,
+      "code": "UG13000",
+      "name": "BANK OF AFRICA"
+    },
+    {
+      "id": 1015,
+      "code": "UG15000",
+      "name": "NATIONAL BANK OF COMMERCE"
+    },
+    {
+      "id": 1016,
+      "code": "UG16000",
+      "name": "CENTENARY RURAL DEVELOPMENT"
+    },
+    {
+      "id": 1017,
+      "code": "UG17000",
+      "name": "CRANE BANK"
+    },
+    {
+      "id": 1018,
+      "code": "UG18000",
+      "name": "CAIRO INTERNATIONAL BANK"
+    },
+    {
+      "id": 1019,
+      "code": "UG19000",
+      "name": "DIAMOND TRUST BANK"
+    },
+    {
+      "id": 1020,
+      "code": "UG22000",
+      "name": "CITIBANK N.A."
+    },
+    {
+      "id": 1021,
+      "code": "UG23000",
+      "name": "HOUSING FINANCE BANK"
+    },
+    {
+      "id": 1022,
+      "code": "UG24000",
+      "name": "GLOBAL TRUST BANK"
+    },
+    {
+      "id": 1023,
+      "code": "UG25000",
+      "name": "KCB BANK UGANDA LTD"
+    },
+    {
+      "id": 1024,
+      "code": "UG26000",
+      "name": "UNITED BANK FOR AFRICA UG LTD"
+    },
+    {
+      "id": 1025,
+      "code": "UG27000",
+      "name": "GUARANTEE TRUST BANK"
+    },
+    {
+      "id": 1026,
+      "code": "UG30000",
+      "name": "EQUITY BANK"
+    },
+    {
+      "id": 1027,
+      "code": "UG31000",
+      "name": "ABC CAPITAL BANK LTD"
+    },
+    {
+      "id": 1028,
+      "code": "UG32000",
+      "name": "EXIM BANK"
+    },
+    {
+      "id": 1029,
+      "code": "UG35000",
+      "name": "NC BANK UGANDA LIMITED"
+    },
+    {
+      "id": 1030,
+      "code": "UG36000",
+      "name": "COMMERCIAL BANK OF AFRICA UGANDA LIMITED"
+    },
+    {
+      "id": 1031,
+      "code": "UG37000",
+      "name": "FINANCE TRUST BANK"
+    },
+    {
+      "id": 1032,
+      "code": "UG47000",
+      "name": "BANK OF UGANDA"
+    },
+    {
+      "id": 1033,
+      "code": "UG53000",
+      "name": "FINCA UGANDA LIMITED"
+    },
+    {
+      "id": 1034,
+      "code": "UG56000",
+      "name": "POST BANK UGANDA LIMITED"
+    },
+    {
+      "id": 1035,
+      "code": "UG57000",
+      "name": "PRIDE MICROFINANCE LIMITED"
+    },
+    {
+      "id": 1036,
+      "code": "UG61000",
+      "name": "OPPORTUNITY BANK UGNADA LIMITED"
+    },
+    {
+      "id": 1037,
+      "code": "UG62000",
+      "name": "Top Finance Bank Limited"
+    },
+    {
+      "id": 1038,
+      "code": "UG99000",
+      "name": "BANK OF UGANDA 1"
+    },
+    {
+      "id": 1039,
+      "code": "UGCOBEUR",
+      "name": "COMMERZBANK - EUR"
+    },
+    {
+      "id": 1040,
+      "code": "UGCOBGBP",
+      "name": "COMMERZBANK - GBP"
+    },
+    {
+      "id": 1041,
+      "code": "UGCOBUSD",
+      "name": "COMMERZBANK - USD"
+    },
+    {
+      "id": 1042,
+      "code": "UGNEDZAR",
+      "name": "NEDBANK"
+    }
+  ]
+}

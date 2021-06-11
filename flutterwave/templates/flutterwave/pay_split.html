@@ -1,0 +1,60 @@
+<form>
+  <script src="https://checkout.flutterwave.com/v3.js"></script>
+  <button class='btn btn-primary btn-md' type="button" onClick="makePayment()">
+    Pay {{ store_value.iso_code }}
+    {{ '{:,.2f}'.format(store_value.shipping_costs | sum() +
+    store_value.store_total) }}</button>
+</form>
+
+<script>
+
+  function makePayment() {
+    FlutterwaveCheckout({
+      public_key: '{{ config.FLW_PUB_KEY }}',
+      tx_ref: 'Reg/{{ current_user.id }}/{{ cart[0].order_id }}',
+      amount: '{{ store_value.shipping_costs|sum() + store_value.store_total }}',
+      currency: '{{ store_value.iso_code }}',
+      payment_options: 'card',
+      customer: {
+        email: '{{ current_user.email }}',
+        name: '{{ current_user.name }}',
+      },
+      subaccounts: [
+        {% for line in pay_data %}
+        { id: "{{line[0].account.sub_number}}",
+          transaction_charge_type:"flat_subaccount",
+          transaction_charge: "{{line[1]|float * config.SPLIT_RATIO_STORE}}" },
+        { id: "{{line[0].dispatcher.account.sub_number}}",
+          transaction_charge_type:"flat_subaccount",
+          transaction_charge: `{{'%.2f'|format(
+            store_value['shipping_costs'][loop.index-1]|float *
+            config.SPLIT_RATIO_DISPATCHER)}}` },
+        {% endfor %}
+      ],
+      callback: function (flw_response) {
+        $.ajax({
+          type: 'POST',
+          url: "{{ url_for('flutterwave.callback_sales_payment') }}",
+          data: JSON.stringify(flw_response),
+          contentType: 'application/json; charset=utf-8',
+          success: function (data, textStatus) {
+            console.log(data)
+            if (data.redirect) {
+              // data.redirect contains the string URL to redirect to
+              window.location.href = data.redirect;
+            } else {
+              console.log('This should never happen: contact us')
+            }
+          },
+        });
+      },
+      onclose: function () {
+        console.log('Closed')
+      },
+      customizations: {
+        title: 'Pay for your order',
+        logo: "{{ url_for('marketplace.static', filename='marketplace/img/site_logo.png', _external=True) }}",
+      },
+    });
+  }
+</script>
