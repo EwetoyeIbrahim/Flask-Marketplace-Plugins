@@ -1,13 +1,15 @@
 ''' Defination of all shop views in `shop` blueprint '''
 import json
 
-from flask import Blueprint, current_app, flash, request, url_for, render_template
+from flask import (Blueprint, current_app, flash, render_template_string,
+                   request, url_for, render_template)
+from flask_login import login_required
 from Flask_Marketplace.factory import db
 from Flask_Marketplace import MarketViews
 from . import utilities
 
 
-# ---------- Declaring the blueprint ----------
+# === Declaring the blueprint views ===
 flutterwave = Blueprint('flutterwave', __name__, template_folder='templates')
 
 
@@ -36,3 +38,11 @@ def callback_sales_payment():
     else:
         flash("Unable to confirm payment, contact us", 'danger')
     return {'redirect': url_for('marketplace.market')}
+
+
+# === Views to overide ===
+class FlutterwaveViews(MarketViews):
+    @login_required
+    def checkout(self):
+        html_string = super().checkout(template_folder='flutterwave')
+        return render_template_string(html_string)
