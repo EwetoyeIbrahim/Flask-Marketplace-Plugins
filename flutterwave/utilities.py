@@ -6,7 +6,7 @@ from requests import get, post
 
 from Flask_Marketplace.factory import db
 from Flask_Marketplace.models.shop_models import AccountDetail, Dispatcher, Order, OrderLine, Store
-
+from Flask_Marketplace.utilities import register_store
 # Getting the bank details handy,
 # Banks don't get created every year
 # Instead of querying Flutterwaves bank codes api for a data
@@ -68,19 +68,7 @@ def confirm_store_reg(trans_id, store_reg_amt, flw_sec_key):
                 # Now, it's too good not to be true
                 # Proceed with dummy store creation
                 # We want to randomly fix a store to a dispatcher
-                dispatcher = db.session.query(
-                    Dispatcher).order_by(db.func.random()).first().id
-                store = Store(
-                    name=trans_id,
-                    about='Give your store a short Description',
-                    iso_code='USD',
-                    dispatcher_id=dispatcher,
-                    user_id=current_user.id,
-                    phone='e.g. 08123456789',
-                    email='e.g. abc@gmail.com'
-                )
-                db.session.add(store)
-                db.session.commit()
+                register_store()
                 # Note: trans_id has been used to create a store
                 return trans_id
     return False

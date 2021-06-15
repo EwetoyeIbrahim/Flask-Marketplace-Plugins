@@ -1,10 +1,18 @@
+{% extends 'marketplace/dashboard.html' %}
+{% block field_page %}
+<h5 class='text-center pb-5'> Register a Store</h5>
+<p class='col-12'>
+  Before proceeding, you are required to pay a store registration fee
+  of {{config.STORE_REG_AMT}} or its
+  equivalent in your currency.
+  Kindly click on the payment button below to get started
+</p>
 <form class='col text-center'>
   <script src='https://checkout.flutterwave.com/v3.js'></script>
   <button type='button' onClick='makePayment()' class='btn btn-success col-6 m-4'>Pay Now</button>
 </form>
 
 <script>
-
   function makePayment() {
     FlutterwaveCheckout({
       public_key: '{{ config.FLW_PUB_KEY }}',
@@ -44,3 +52,4 @@
     });
   }
 </script>
+{% endblock field_page %}
