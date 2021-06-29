@@ -29,6 +29,7 @@
           type: 'POST',
           url: "{{ url_for('flutterwave.callback_store_payment') }}",
           data: JSON.stringify(flw_response),
+          headers: { 'X-CSRFToken': '{{ csrf_token() }}' },
           contentType: 'application/json; charset=utf-8',
           success: function (data, textStatus) {
             console.log(data)

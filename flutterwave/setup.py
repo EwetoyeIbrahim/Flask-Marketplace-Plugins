@@ -1,5 +1,11 @@
 name = 'Flutterwave payment acquirer'
 config = {
+    # PAY_ON_CHECKOUT
+    # - checkout: Immediately an online payment is made, store are paid their entitlement
+    #   as specified by the payout value of FM model.
+    # - None: Payment will have to be made maually
+    'PAY_ON_CHECKOUT': True,
+
     # WHEN_TO_PAY_STORES
     # - checkout: Immediately an online payment is made, store are paid their entitlement
     #   as specified by the payout value of FM model.

@@ -44,8 +44,11 @@ def callback_sales_payment():
 class FlutterwaveViews(MarketViews):
     @login_required
     def checkout(self):
-        return render_template_string(
-            super().checkout(template_folder='flutterwave'))
+        if current_app.config['PAY_ON_CHECKOUT']:
+            html_string = super().checkout(template_folder='flutterwave')
+        else:
+            html_string = super().checkout()
+        return render_template_string(html_string)
 
     @login_required
     def store_new(self, **kwargs):
